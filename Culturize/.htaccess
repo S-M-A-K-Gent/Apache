@@ -1,0 +1,5 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule data/1663$ https://smak.be/nl/collectie/de-smak-collectie/1663 [R=302,NC,NE,L]
+RewriteRule data/1667$ https://smak.be/nl/collectie/de-smak-collectie/1667 [R=302,NC,NE,L]
